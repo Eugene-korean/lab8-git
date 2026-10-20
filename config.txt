@@ -1,2 +1,3 @@
 app_name=MyTodo
 timeout=10
+timeout=30  # fixed: 10s was too short
