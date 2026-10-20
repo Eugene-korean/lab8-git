@@ -1,0 +1,2 @@
+app_name=MyTodo
+timeout=10
