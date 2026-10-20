@@ -1,0 +1,2 @@
+- [ ] Study Git branching
+- [ ] Submit Lab8
